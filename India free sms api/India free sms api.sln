@@ -3,27 +3,36 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "India free sms api", "India free sms api\India free sms api.csproj", "{0332DD34-46CF-4543-A0AE-8C4BEE4584D8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nitin.Sms.Api", "..\Nitin.Sms.Api\Nitin.Sms.Api.csproj", "{DFC675BE-3ABD-4849-8818-4968EC79CDF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api.Client", "..\Api.Client\Api.Client.csproj", "{C425BDD2-EF17-4048-9EAE-5ACA3CC6904A}"
 EndProject
 Global
 	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 2
+		SccNumberOfProjects = 3
 		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
 		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs30
 		SccLocalPath0 = .
-		SccProjectUniqueName1 = India\u0020free\u0020sms\u0020api\\India\u0020free\u0020sms\u0020api.csproj
-		SccProjectName1 = India\u0020free\u0020sms\u0020api
-		SccLocalPath1 = India\u0020free\u0020sms\u0020api
+		SccProjectUniqueName1 = ..\\Nitin.Sms.Api\\Nitin.Sms.Api.csproj
+		SccProjectName1 = ../Nitin.Sms.Api
+		SccLocalPath1 = ..\\Nitin.Sms.Api
+		SccProjectUniqueName2 = ..\\Api.Client\\Api.Client.csproj
+		SccProjectName2 = ../Api.Client
+		SccLocalPath2 = ..\\Api.Client
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0332DD34-46CF-4543-A0AE-8C4BEE4584D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0332DD34-46CF-4543-A0AE-8C4BEE4584D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0332DD34-46CF-4543-A0AE-8C4BEE4584D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0332DD34-46CF-4543-A0AE-8C4BEE4584D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFC675BE-3ABD-4849-8818-4968EC79CDF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFC675BE-3ABD-4849-8818-4968EC79CDF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFC675BE-3ABD-4849-8818-4968EC79CDF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFC675BE-3ABD-4849-8818-4968EC79CDF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C425BDD2-EF17-4048-9EAE-5ACA3CC6904A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C425BDD2-EF17-4048-9EAE-5ACA3CC6904A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C425BDD2-EF17-4048-9EAE-5ACA3CC6904A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C425BDD2-EF17-4048-9EAE-5ACA3CC6904A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
