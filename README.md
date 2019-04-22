@@ -13,6 +13,9 @@ Implementation Done:
 Way2sms.com
 160by2.com
 
+How to guide: using this library in .NET projects
+https://github.com/nitinjs/india-sms-api/wiki/How-to-use-SMS-API-in-C%23
+
 TODO:
 http://site2sms.com
 
