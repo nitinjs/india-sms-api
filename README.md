@@ -17,7 +17,7 @@ Planned:
 1. [site2sms.com](http://site2sms.com) implementation
 2. .net core release 
 
-[buy me tea if you find this project helpful](https://paypal.me/nitinsa1?locale.x=en_GB)
+[donate](https://paypal.me/nitinsa1?locale.x=en_GB)
 
 PS:
 This software is for educational purpose only,
