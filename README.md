@@ -19,5 +19,4 @@ Planned:
 [donate](https://paypal.me/nitinsa1?locale.x=en_GB)
 
 PS:
-This software is for educational purpose only 🎖
-I am not responsible for what you do in your project :P
+This software is for educational purpose only 👨‍🎓
