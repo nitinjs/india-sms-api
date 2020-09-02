@@ -14,13 +14,10 @@ Implementation Done:
 [How to use this library in .NET projects](https://github.com/nitinjs/india-sms-api/wiki/How-to-use-SMS-API-in-C%23)
 
 Planned: 
-1. [site2sms.com](http://site2sms.com) implementation
-2. .net core release 
+1. .net core release 
 
 [donate](https://paypal.me/nitinsa1?locale.x=en_GB)
 
 PS:
-This software is for educational purpose only,
-Not recommended for production,
-Use at own risk,
+This software is for educational purpose only 🎖
 I am not responsible for what you do in your project :P
