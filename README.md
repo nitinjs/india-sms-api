@@ -16,7 +16,5 @@ Implementation Done:
 Planned: 
 1. .net core release 
 
-[donate](https://paypal.me/nitinsa1?locale.x=en_GB)
-
 PS:
 This software is for educational purpose only 👨‍🎓
