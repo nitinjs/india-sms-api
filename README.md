@@ -1,9 +1,12 @@
-# india-sms-api
+# Note: Code Marked as Obsolete
+Since the sites 160by2 and way2sms stopped working, marking this repo as read-only archive
+
+## india-sms-api
 
 C# web API to Send free sms to any mobile in India using C#, VB.NET, ASP.NET
 
 Requirement: 
-1. User must have [160by2.com](160by2.com) or [way2sms.com](way2sms.com) account(free)
+1. User must have [160by2.com](http://160by2.com) or [way2sms.com](http://way2sms.com) account(free)
 
 This class library uses screen scraping to send SMS to any mobile
 
